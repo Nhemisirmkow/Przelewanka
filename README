@@ -1,0 +1,13 @@
+Zadanie: Przelewanka
+Autor: Marcin Michorzewski
+Code review: Dominik Klemba
+
+Paczka zawiera:
+1. Rozwiązanie przelewanka.ml
+2. Sygnaturę przelewanka.mli
+3. Plik test.ml autorstwa Michała Kukuły (wszelkie testy przejrzane osobiście).
+
+Odpalamy test.ml z załączonym modułem Przelewanka. Program sprawdzi nam poprawność
+na małych, średnich i dużych testach. Czas nie powinien przekraczać kilkunastu sekund.
+
+Treść zadania znajduje się w pliku: Przelewanka [Ocaml, Polish]
